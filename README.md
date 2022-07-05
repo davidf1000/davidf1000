@@ -12,7 +12,7 @@
 
 <a href="#">
 
-<img align="center" alt="David's LinkedIN" width="100px" src="https://visitor-badge.glitch.me/badge?page_id=davidf1000.davidf1000"/>
+<img align="center" alt="Visitor Badge" width="100px" src="https://visitor-badge.glitch.me/badge?page_id=davidf1000.davidf1000"/>
 
 </a>
 
