@@ -25,7 +25,7 @@ My name is <b> David Fauzi </b>, you can call me David. Currently i'm a final ye
 </p>
 <br/>
 <p align="justify">
-In my major, i learnt a lot about how computer works starting from the lowest abstraction level such as transistor, electronic circuit, logic gate, into lower level stuff such as computer architecture, register, assembly, embedded, and finally into a higher level language. That knowledge really makes me appreciate the effort given for developing IT infrastructure and the limitless potential of software engineering. 
+In my major, i learnt a lot about computer stuff starting from the lowest abstraction level such as transistor, electronic circuit, logic gate, into lower level stuff such as computer architecture, register, assembly, embedded, and finally into a higher level language. That knowledge really makes me appreciate the effort given for developing IT infrastructure and the limitless potential of software engineering. 
 </p>
 <br/>
 <p align="justify">
