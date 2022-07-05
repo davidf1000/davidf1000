@@ -29,7 +29,7 @@ In my major, i learnt a lot about computer stuff starting from the lowest abstra
 </p>
 <br/>
 <p align="justify">
-I have interest in fullstack web development and cloud computing. I love to learn new things and implement it in my projects. I've participated in more than 10  hackatons, ideations, and competitions ranging from IT Business Case, Robotics, IoT, Embedded, Cloud, and Web & Mobile Dev. From all these competitions, i got the experiences to build a lot of stuff and it finally sparks my interest in the tech world. I've also developed a few hobby projects. In my free time, i like to play co-op or Singleplayer pc games binge-watching anime or tv shows.
+I have interest in fullstack web development and cloud computing. I love to learn new things and implement it in my projects. I've participated in more than 10  hackatons, ideations, and competitions ranging from IT Business Case, Robotics, IoT, Embedded, Cloud, and Web & Mobile Dev. From all these competitions, i got the experiences to build a lot of stuff and it finally sparks my interest in the tech world. I've also developed a few hobby projects. In my free time, i like to play co-op or Singleplayer pc games and binge-watching anime or tv shows.
 </p>
 
 <div align="center">
