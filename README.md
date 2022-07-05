@@ -3,10 +3,6 @@
 # Hi there Folks 👋
 
 <div align="center">
-<a href="https://discord.gg/XTW52Kt">
-  <img align="center" alt="David's Discord" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
- 
-</a>
 
 <a href="https://www.linkedin.com/in/abhisheknaiidu/">
  &nbsp;
