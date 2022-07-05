@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+<a href="https://www.linkedin.com/in/davidfauzi/" >
  &nbsp;
   <img align="center" alt="David's LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
    &nbsp;
