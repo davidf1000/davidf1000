@@ -4,24 +4,12 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/davidfauzi/" >
- &nbsp;
-  <img align="center" alt="David's LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-   &nbsp;
-</a>
-
-<a href="#">
-
-<img align="center" alt="Visitor Badge" width="100px" src="https://visitor-badge.glitch.me/badge?page_id=davidf1000.davidf1000"/>
-
-</a>
-
 </div>
 
 </div>
 <br/> <br/>
 <p align="center">
-My name is <b> David Fauzi </b>, you can call me David. Currently i'm a final year student in Bandung Institute of Technology (ITB) majoring in Electrical Engineering.
+I'm <b> David Fauzi </b>. I'm a Backend software engineer working in a ecommerce company in Indonesia. I have an electrical engineer degree from Bandung Institut of Technology (ITB).
 </p>
 <br/>
 <p align="justify">
@@ -29,7 +17,7 @@ In my major, i learnt a lot about computer stuff starting from the lowest abstra
 </p>
 <br/>
 <p align="justify">
-I have interest in fullstack web development and cloud computing. I love to learn new things and implement it in my projects. I've participated in more than 10  hackatons, ideations, and competitions ranging from IT Business Case, Robotics, IoT, Embedded, Cloud, and Web & Mobile Dev. From all these competitions, i got the experiences to build a lot of stuff and it finally sparks my interest in the tech world. I've also developed a few hobby projects. In my free time, i like to play co-op or Singleplayer pc games and binge-watching anime or tv shows.
+I have interest in backend software development and cloud computing. I love to learn new things and implement it in my projects. I've participated in more than 10  hackatons, ideations, and competitions ranging from IT Business Case, Robotics, IoT, Embedded, Cloud, and Web & Mobile Dev. From all these competitions, i got the experiences to build a lot of stuff and it finally sparks my interest in the tech world. I've also developed a few hobby projects. In my free time, i like to play co-op or Singleplayer pc games and binge-watching anime or tv shows.
 </p>
 
 <div align="center">
